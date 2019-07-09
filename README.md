@@ -1,2 +1,3 @@
-Welcome to Tommy's Expense manager. 
-unfortunately this page is not availble and undercnstruction.
+<b>Welcome to Tommy's Expense manager. </b>
+<br>
+unfortunately this page is not availble and under construction.
