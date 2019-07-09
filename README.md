@@ -1,1 +1,2 @@
-this is just a expense manager project for sample purposes
+Welcome to Tommy's Expense manager. 
+unfortunately this page is not availble and undercnstruction.
